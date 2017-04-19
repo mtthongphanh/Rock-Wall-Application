@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>SDSU Climbing Gym Acknowledgement of RiskPLEASE NOTE: This Waiver of Liability, Release, Acknowledgement of Risk, and Indemnification Agreement (“Waiver Agreement”) is intended to be,and is, legally binding.If any aspect of this Waiver Agreement requires clarification, have an SDSU Wellness Center Climbing Gym attendant fully explain it, before signing. By signing the Wellness Center Climbing Gym “Sign-in Sheet(s)”, you are agreeing to all terms set forth in this Waiver Agreement. You and/or the person on whose behalf you are signing, are waiving the right to bring any type of action, whether in court or otherwise, to recover compensation or obtain any other remedy for any personal injuries, damages to property, any accident or incident of any type, or death, arising out of or related to your use of the Wellness Center Climbing Gym, its facilities, grounds, climbing walls, exercise areas, equipment, whether the use is supervised or unsupervised. Rock climbing is a sport that has inherent risks. While the SDSU Wellness Center Climbing Gym offers the sport of rock climbing in a controlled environment, there is still an assumed risk of injury to persons using the SDSU Wellness Center Climbing Gym. In agreeing to this Waiver Agreement, I hereby acknowledge, understand, and agree on my behalf, and upon behalf of the person for whom I am signing, that the sport of rock climbing and the use of the SDSU Wellness Center Climbing Gym, its facilities, equipment, climbing walls, classes and/or participating in activities sponsored by the SDSU Wellness Center Climbing Gym has inherent risks. These risks include, but are not limited to any injury of damage resulting from:Negligence of employees, or the SDSU Wellness Center Climbing Gym.  Negligent misuse of the facility, climbing walls, or equipment of the SDSU Wellness Center Climbing Gym; Falling off or impacting against the climbing walls, impact surface, floors, or anything else; Rope abrasion, entanglement or other activities occurring on the premises; Cuts or abrasions resulting from any cause whatsoever; Failure of the climbingwalls or equipment, whether inside or outside; Personal health problems, whether mental or physical; Negligence of otherclimbers, visitors, or observers or persons who may be present in or around the climbing area or facility; and/or Negligence or lack of adequate training or any person(s) who seek to assist with medical or other help either before or after any injury or damage may occur.By signing the “Sign-in Sheet”, I, for myself and for my heirs, next of kin assigns, and personal representatives, hereby agree to and do release,indemnify and hold harmless the State of South Dakota, South Dakota Board of Regents, South Dakota State University, and the SDSU Wellness Center Climbing Gym, and their officers, employees, and agents, and/or volunteer assistants, from any and all injuries and damage which I, or the person upon whose behalf I am signing in, may sustain or incur arising out of or related to my use of the SDSU Wellness Center Climbing Gym, its facilities, grounds, climbing walls, exercise areas, equipment, participation in classes or events, and/or outdoor programs guided by or connected with theSDSU Wellness Center Climbing Gym, whether the use is supervised or unsupervised. I, for myself and for my heirs, next of kin, assigns, personal representatives, and persons upon whose behalf Iam signing the “Sign-in Sheet,”hereby agree to and release, indemnify and hold harmless theState of South Dakota, South Dakota Board of Regents, South Dakota State University, and theSDSU Wellness Center Climbing Gym, and their agents, employees, offices, and, volunteer assistants, from any and all causes of action, claims for damages or demands whatsoever. THIS WAIVER AGREEMENT IS BINDING EVEN IF THE RELEASED PERSON(S) OR ENTITY(IES) HAVE CAUSED OR CONTRIBUTED TO ANY DAMAGE OR INJURY THROUGH THEIR COLLECTIVE OR INDIVIDUAL NEGLIGENCE. I and/or person on whose behalf I am signing-in, voluntarily assume complete responsibility for risks and any injuries or damage which may occur as a result of those risks even if the manner or type of injury or damage occurs in a manner that is not foreseeable at the time this Waiver Agreement is accepted. In consideration of my use of the gym, its equipment, employees, volunteer assistants, independent contractors, I agree to and do release, indemnify and hold harmless, the SDSU Wellness Center Climbing Gym, and any and all of their agents, servants and employees, from all liability, claims, demands and damages and further promise not to commence any action or proceeding asserting same.All climbers who are twelve(12)years of age or under must be directly supervised by an SDSU Wellness Center Climbing Gym approved adult or be a participant in an SDSU Wellness Center Climbing Gym program. The “Sign-in Sheet” is being signed by the youth’s parent, legal guardian, or adult authorized to sign by the youth’s parent or legal guardian. By signing the “Sign-in Sheet”, the adult acknowledges that theyunderstand the terms of the Waiver Agreement and has the authority to sign for the youth climber. The person signing the “Sign-in Sheet” understands and acknowledges that this Waiver Agreement is binding on the person on whose behalf the “Sign-in Sheet” is signed, for theirheirs, next of kin, assigns, and personal representatives.BY SIGNING the SDSU Wellness Center Climbing Gym “SIGN-IN SHEET” I ACKNOWLEDGE THAT I HAVE READ AND AGREE TO THE TERMS OF THIS WAIVER AGREEMENT. THERE ARE NO ORAL REPRESENTATIONS, STATEMENTS, OR INDUCEMENTS WHICH HAVE BEEN MADE THAT ALTER, CHANGE OR MODIFY ANYTHING SET FORTH IN THIS WAIVER AGREEMENT.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAeAB4AAD/4QCwRXhpZgAATU0AKgAAAAgAAwE7AAIAAAAHAAAAModpAAQAAAAB
+        AAAAOpydAAEAAAAOAAAAmgAAAABNb2xpbmEAAAAEkAMAAgAAABQAAABwkAQAAgAAABQAAACEkpEAAgAA
+        AAM3MAAAkpIAAgAAAAM3MAAAAAAAADIwMTY6MTE6MzAgMTc6MjA6MjMAMjAxNjoxMTozMCAxNzoyMDoy
+        MwAAAE0AbwBsAGkAbgBhAAAA/9sAQwAHBQUGBQQHBgUGCAcHCAoRCwoJCQoVDxAMERgVGhkYFRgXGx4n
+        IRsdJR0XGCIuIiUoKSssKxogLzMvKjInKisq/9sAQwEHCAgKCQoUCwsUKhwYHCoqKioqKioqKioqKioq
+        KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq/8AAEQgAVgFXAwEiAAIRAQMRAf/EAB8A
+        AAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFB
+        BhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldY
+        WVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfI
+        ycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYH
+        CAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy
+        0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWG
+        h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz
+        9PX29/j5+v/aAAwDAQACEQMRAD8A+kaKKKACiiigCFblGvXtVIMkcayOM9AxIX89rflU1cz4Nvv7ZbWt
+        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
+        ACiiigAooooAKKKKAP/Z
+</value>
+  </data>
+</root>
